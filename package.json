@@ -1,0 +1,15 @@
+{
+  "name": "vscode-jest-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jacob Page <jacob.h.page@gmail.com>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "jest": "^24.1.0",
+    "nightmare": "^3.0.1"
+  }
+}
